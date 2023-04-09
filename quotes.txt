@@ -4,4 +4,5 @@ It always seems impossible until it is done - Nelson Mandela
 The best way to predict future is to create one - Peter drecker
 lets add one more
 If you can dream it , you can do it - Walt disney
+stashable changes shown here
 There will never be a day when you do not need courage and perseverance
